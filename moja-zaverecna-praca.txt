@@ -1,1 +1,21 @@
 HTML5 herné frameworky
+
+HTML5 ako moderný štandard vo webových technológiách prenikol aj do prostredia vývoja webových hier. Namiesto toho, aby spoločnosti vyvíjali webové hry takpovediac od základov, tak boli vytvorené rôzne herné frameworky. Úlohou týchto frameworkov je zefektívniť vývoj webových hier.
+
+Cieľom práce je predstaviť a porovnať aktuálne používane HTML5 frameworky na vývoj hier pre webové prostredie. Študent na základe porovnania vo vybranom HTML5 frameworku popíše postup vytvorenie webovej hry.
+
+Charakter práce: aplikačný.
+
+Požiadavky na obsah podľa charakteru práce (nemyslí sa tým šablóna, tá je daná bez ohľadu na charakter práce): popis riešeného problému, návrh systému/hardvérového riešenia a pod. (modely, ..), metodika vývoja/tvorby, implementácia, popis vytvoreného riešenia, testovanie.
+
+Predmetové prerekvizity:
+Značkovacie jazyky (1., bc);
+Objektovo orientované programovanie (1., bc);
+Umelá inteligencia (2., bc).
+
+Najdôležitejšie kompetentnosti získané spracovaním témy:
+programovacie jazyky (JAVA Script, XHTML, HTML, CSS a pod.);
+nové technológie v spracovaní web dizajnu (Sledovanie nových trendov a aktualizácií);
+princípy a metodiky algoritmizácie úloh a formy vyjadrenia algoritmu (Určovanie princípov, metodiky algoritmizácie úloh a formy vyjadrenia algoritmu (vývojový diagram, pseudojazyk) a vhodne ich aplikovať);
+web technológie;
+žánre digitálnych hier.
